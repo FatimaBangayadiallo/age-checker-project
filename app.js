@@ -1,3 +1,24 @@
+/*
+🛠️ 1. Age Checker
+Goal: Ask the user for their age and give different messages using if/else and/or ternary.
+
+✅ Requirements:
+
+Ask the user for their age.
+
+If the age is 18 or more → show “Access granted.”
+
+If under 18 → show “Access denied. You’re too young.”
+
+If exactly 18 → also say “Congratulations on becoming an adult!”
+
+💡 Bonus: Try to convert this logic into a ternary operator too.
+
+
+
+*/
+
+
 //here we are selecting all the element
 const form = document.querySelector('.form');
 
